@@ -1,0 +1,1 @@
+This is kinocanon first git project!
